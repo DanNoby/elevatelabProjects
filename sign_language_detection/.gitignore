@@ -1,6 +1,4 @@
 slenv/
 sign_language_cnn_model
-dataset/
-augmented_dataset/
-data/
+sign_language_data/
 best_model.h5
