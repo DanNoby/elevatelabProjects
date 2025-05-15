@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -12,7 +13,6 @@ from hybrid_recommender import HybridRecommender
 # Set page title and config
 st.set_page_config(
     page_title="Movie Recommender System",
-    page_icon="🎬",
     layout="wide"
 )
 
