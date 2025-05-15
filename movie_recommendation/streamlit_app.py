@@ -63,7 +63,7 @@ def load_data_and_models():
 
 def main():
     # Title and description
-    st.title("🎬 Movie Recommendation System")
+    st.title(" Movie Recommendation System")
     st.write("Get personalized movie recommendations based on your preferences")
     
     # Load data and models
